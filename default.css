@@ -1,0 +1,55 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+#menu_top a {
+	text-decoration: none;
+	color: black;
+}
+
+#menu_top a:hover {
+	/*text-decoration: underline;*/
+	color: blue;
+}
+
+.right {
+	float: right;
+}
+
+#menu_top {
+	/*background-color: #EFEFEF;*/
+	background-color: #E2E3E4;
+}
+
+#menu_top header {
+	margin: 0 auto;
+	padding: 5px 0;
+	width: 80%;
+}
+
+#main {
+	margin: 0 auto;
+	width: 80%;
+}
+
+#projects {
+	text-align: center;
+}
+
+#main a {
+	color: black;
+	font-weight: bold;
+}
+
+.project {
+	background: #E2E3E4;
+ 	-moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+}
+
+h3 {
+	padding-top: 0.5em;
+	margin-bottom: 0.2em;
+}
