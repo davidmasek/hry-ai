@@ -9,9 +9,3 @@ Snake (game) that plays itself using A.I.
 Playable game of Tic-Tac-Toe against computer.
 
 ![img 2](hryttt.png)
-
-
-
-... test text ...
-super test text
-mega test
