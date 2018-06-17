@@ -13,7 +13,7 @@
 	<div id="main">
 		<div id="projects">
 			<div class="project">
-				<h1>Hry - AI/h1>
+				<h1>Hry - A.I./h1>
 			</div>
 			<div class="project">
 				<h3><a href="projects/snake.php">Auto-Snake</a></h3>
