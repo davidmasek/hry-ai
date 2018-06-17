@@ -3,7 +3,7 @@
 <head>
   	<meta charset="utf-8">
 
-	<title>Showcase - Hry</title>
+	<title>Hry - AI</title>
   	<meta name="description" content="Ukázky prací">
  	<meta name="author" content="David Mašek">
 	<link rel="stylesheet" type="text/css" href="default.css">
@@ -13,7 +13,7 @@
 	<div id="main">
 		<div id="projects">
 			<div class="project">
-				<h1>Showcase - Hry</h1>
+				<h1>Hry - AI/h1>
 			</div>
 			<div class="project">
 				<h3><a href="projects/snake.php">Auto-Snake</a></h3>
